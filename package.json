@@ -1,0 +1,28 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "simple http node server",
+  "main": "simple-http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KentonWan/simple-http-node-server.git"
+  },
+  "keywords": [
+    "simple",
+    "http",
+    "node",
+    "server"
+  ],
+  "author": "Kenton Wan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KentonWan/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/KentonWan/simple-http-node-server#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
